@@ -2,8 +2,6 @@
 
 > Este documento reúne el punto de partida, el instrumento construido y el registro de ejecución del experimento mínimo definido en la Caja 8 del Lean Product Canvas. El archivo de trabajo (`instrumento-rutasegura.xlsx`) se sube junto a este `.md` en el repositorio.
 
----
-
 ## 1. Punto de partida
 
 - **Hipótesis priorizada (comportamiento):** Creemos que los empleados usarán la app de forma recurrente para ganar puntos por commutes sostenibles. Lo sabremos si registran viajes de forma repetida durante el piloto.
